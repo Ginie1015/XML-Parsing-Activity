@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mountains>
+    <Mountain id="1">
+        <Name>Mount Fuji</Name>
+        <MountainType>Stratovolcano</MountainType>
+        <Height>3,776 m</Height>
+        <Country>Japan</Country>
+        <Minerals>
+            <Mineral id="1">Allophane</Mineral>
+            <Mineral id="2">Charcoal</Mineral>
+            <Mineral id="3">Cristobalite</Mineral>
+            <Mineral id="4">Iron</Mineral>
+            <Mineral id="5">Magnetite</Mineral>
+            <Mineral id="6">Plagioclase</Mineral>
+            <Mineral id="7">Saponite</Mineral>
+        </Minerals>
+    </Mountain>
+
+    <Mountain id="2">
+        <Name>Mount Kilimanjaro</Name>
+        <MountainType>Stratovolcano</MountainType>
+        <Height>5,895 m</Height>
+        <Country>Tanzania</Country>
+        <Minerals>
+            <Mineral id="1">Albite</Mineral>
+            <Mineral id="2">Apatite</Mineral>
+            <Mineral id="3">Augite</Mineral>
+            <Mineral id="4">Glass</Mineral>
+            <Mineral id="5">Ilmenite</Mineral>
+            <Mineral id="6">Leucite</Mineral>
+            <Mineral id="7">Nepheline</Mineral>
+        </Minerals>
+    </Mountain>
+
+    <Mountain id="3">
+        <Name>Mount Pinatubo</Name>
+        <MountainType>Stratovolcano</MountainType>
+        <Height>1,486 m</Height>
+        <Country>Philippines</Country>
+        <Minerals>
+            <Mineral id="1">Anhydrite</Mineral>
+            <Mineral id="2">Anorthite</Mineral>
+            <Mineral id="3">Chalcopyrite</Mineral>
+            <Mineral id="4">Cubanite</Mineral>
+            <Mineral id="5">Edenite</Mineral>
+            <Mineral id="6">Enstatite</Mineral>
+            <Mineral id="7">Glass</Mineral>
+            <Mineral id="8">Magnetite</Mineral>
+        </Minerals>
+    </Mountain>
+
+    <Mountain id="4">
+        <Name>Mount Everest</Name>
+        <MountainType>Fold Mountain</MountainType>
+        <Height>8,849 m</Height>
+        <Country>China and Nepal</Country>
+        <Minerals>
+            <Mineral id="1">Apatite</Mineral>
+            <Mineral id="2">Biotite</Mineral>
+            <Mineral id="3">Calcite</Mineral>
+            <Mineral id="4">Muscovite</Mineral>
+            <Mineral id="5">Pyrite</Mineral>
+            <Mineral id="6">Quarts</Mineral>
+            <Mineral id="7">Zircon</Mineral>
+        </Minerals> 
+    </Mountain>
+
+    <Mountain id="5">
+        <Name>La Sal</Name>
+        <MountainType>Dome Mountain</MountainType>
+        <Height>3,879 m</Height>
+        <Country>United States</Country>
+        <Minerals>
+            <Mineral id="1">Carnotite</Mineral>
+            <Mineral id="2">Pyrite</Mineral>
+            <Mineral id="3">Quarts</Mineral>
+            <Mineral id="4">Magnetite</Mineral>
+            <Mineral id="5">Chalcopyrite</Mineral>
+            <Mineral id="6">Calcite</Mineral>
+            <Mineral id="7">Flourite</Mineral>
+        </Minerals>  
+    </Mountain>
+</Mountains>
+
+
+
+
+
